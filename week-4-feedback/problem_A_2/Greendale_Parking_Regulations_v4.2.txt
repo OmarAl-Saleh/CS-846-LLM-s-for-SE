@@ -1,0 +1,26 @@
+SECTION 4: PERMITS AND IDENTIFICATION
+4.1. Issuance. Parking permits are issued solely by the Department of Transportation.
+4.2. Display. Physical hang-tags must be displayed on the rearview mirror at all times.
+4.3. Privacy (Faculty Union Agreement Clause 12b). To protect faculty privacy,
+automated tracking of faculty vehicle movement is prohibited. License plate data
+for faculty members may only be stored for 24 hours and cannot be permanently
+linked to their employee personnel file.
+4.4. Transferability. Student "Commuter" passes are linked to a single vehicle.
+Faculty "Gold" passes are transferable between up to three (3) registered vehicles
+owned by the faculty member, provided only one vehicle is on campus at a time.
+
+SECTION 7: VIOLATIONS AND FINES
+7.1. Grace Period. A mandatory grace period of twenty (20) minutes is granted
+upon entry to any lot for drop-offs. No fees shall be assessed if the vehicle
+exits within this window.
+7.2. Immobilization. Vehicles with three (3) or more unpaid citations are subject
+to immobilization (booting).
+7.3. Reserved Spaces. Usage of "Dean's List" or "Faculty" designated spots is
+enforced 24/7. However, per the 2018 Accessibility Addendum, any vehicle displaying
+a state-issued Handicap Placard is exempt from "Reserved" restrictions and may
+park in any available non-fire-lane spot free of charge.
+
+SECTION 9: SYSTEM RELIABILITY AND OVERRIDES
+9.1. In the event of mechanical failure of access control devices, the default
+state must preserve campus security. All barriers must lock in the "Down" position
+until manual intervention by Campus Police.
